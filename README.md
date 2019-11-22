@@ -4,13 +4,13 @@ Rutgers Coding Bootcamp Project One - Frontend Development.
 
 Hangry is a restaurant finder in three easy steps using Google maps and Zamato API.
 
-## Technologies
+### Technologies
 
 * HTML
 * CSS
 * JavaScript
 
-## Libray/Frameworks
+### Libray/Frameworks
 
 * jQuery
 * Bootstrap
