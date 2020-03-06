@@ -8,18 +8,15 @@ Hangry is a restaurant finder in three easy steps using Google maps and Zamato A
 
 https://kalmontee.github.io/Balletime/
 
-## How the App Works
+## Technologies
 
 * HTML
 * CSS
 * JavaScript
-
-### Libray/Frameworks
-
 * jQuery
 * Bootstrap
 
-## Instructions
+## How the App Works
 
 The user will have the option to find their location or add their current address.
 * If the user clicks "Find My Location" it will display their exact location.
@@ -47,7 +44,7 @@ Please make sure to update tests as appropriate.
 
 ## Commits
 
-To see all the commits go to: https://github.com/LazaroPerez0823/Balletime
+To see all the commits click here: [LazaroPerez0823/Balletime](https://github.com/LazaroPerez0823)
 
 ## Authors
 
