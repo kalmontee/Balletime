@@ -44,7 +44,7 @@ Please make sure to update tests as appropriate.
 
 ## Commits
 
-To see all the commits click here: [LazaroPerez0823/Balletime](https://github.com/LazaroPerez0823)
+To see all the commits click here: [LazaroPerez0823/Balletime](https://github.com/LazaroPerez0823/Balletime)
 
 ## Authors
 
