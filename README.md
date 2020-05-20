@@ -4,18 +4,19 @@ Rutgers Coding Bootcamp Project One - Frontend Development.
 
 Hangry is a restaurant finder in three easy steps using Google maps and Zamato API.
 
-### Technologies
+## Demo
+
+https://kalmontee.github.io/Balletime/
+
+## Technologies
 
 * HTML
 * CSS
 * JavaScript
-
-### Libray/Frameworks
-
 * jQuery
 * Bootstrap
 
-## Instructions
+## How the App Works
 
 The user will have the option to find their location or add their current address.
 * If the user clicks "Find My Location" it will display their exact location.
@@ -40,6 +41,16 @@ the restaurants they search.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Commits
+
+To see all the commits click here: [LazaroPerez0823/Balletime](https://github.com/LazaroPerez0823/Balletime)
+
+## Authors
+
+* **Lazaro Perez** - [LazaroPerez0823](https://github.com/LazaroPerez0823)
+
+* ***Marc Dycus*** - [marcdycus](https://github.com/marcdycus)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
