@@ -1,9 +1,8 @@
 $(document).ready(function () {
   // Set Global Variables
-  var userLat;
-  var userLng;
-  var destLat;
-  var destLng;
+  var userLat, userLng;
+  var destLat, destLng;
+  var map, infoWindow;
   var userRadius;
   var meters = 805;
   var results;
@@ -125,7 +124,6 @@ $(document).ready(function () {
   function findLocation() {
     // Sets the inital page display of the map in the background.
     // Hard Coded a random location into it
-    var map, infoWindow;
 
     map = new google.maps.Map(document.getElementById("map"), {
       center: { lat: 38.7555258, lng: -80.04494120000001 },
