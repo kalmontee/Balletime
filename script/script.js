@@ -1,7 +1,9 @@
 $(document).ready(function () {
   // Set Global Variables
-  var userLat, userLng;
-  var destLat, destLng;
+  var userLat
+  var userLng;
+  var destLat
+  var destLng;
   var map, infoWindow;
   var userRadius;
   var meters = 805;
